@@ -1,4 +1,4 @@
-# Practical1: Using R execute the basic commands, array , list and frames
+### Practical1: Using R execute the basic commands, array , list and frames
 
 ``` 
 num_vec <- c(1, 2, 3, 4, 5)
@@ -30,7 +30,7 @@ print(df)
 print(class(df))
 ```
 
-# Practical2: Create matrix using R and perform the operation addition, multiplication, division
+### Practical2: Create matrix using R and perform the operation addition, multiplication, division
 
 ```
 #Creating First matrix  

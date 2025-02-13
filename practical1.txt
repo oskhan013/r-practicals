@@ -23,5 +23,7 @@ df <- data.frame(
   fruits = c("apple", "banana", "cherry"),
   logicals = c(TRUE, FALSE, TRUE)
 )
+
+
 print(df)
 print(class(df))
